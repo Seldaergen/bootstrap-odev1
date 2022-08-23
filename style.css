@@ -1,0 +1,26 @@
+.col-12 {
+    text-align: center;
+    padding: 20px;
+    color: blueviolet;
+    text-shadow: 0 0 2px -2px green;
+}
+.card-img-top{
+    width: 200px;
+    height: auto;
+}
+.card-img-bottom{
+    width: 200px;
+    height: auto;
+   
+}
+#logo {
+    color: red;
+}
+.menu2 {
+    background-color: darkgray;
+    
+}
+.yanbilgi {
+    background-color: azure;
+    display: flexbox;
+}
